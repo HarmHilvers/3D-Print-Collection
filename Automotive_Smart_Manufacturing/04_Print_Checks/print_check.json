@@ -1,0 +1,48 @@
+{
+  "sector": "Automotive & smart manufacturing",
+  "printer": "Bambu Lab A1",
+  "nozzle_mm": 0.4,
+  "material": "Generic PLA",
+  "layer_height_mm": 0.16,
+  "first_layer_mm": 0.2,
+  "supports_enabled": false,
+  "supports_generated": false,
+  "objects_sliced": 12,
+  "objects_with_final_layer_extrusion": 12,
+  "all_objects_on_bed": true,
+  "all_objects_inside_plate": true,
+  "slicer_return_code": 0,
+  "estimated_seconds": 9838,
+  "estimated_pla_g": 61.67,
+  "internal_infill_bridge_layer_heights_mm": [
+    12.52,
+    12.68,
+    13.96
+  ],
+  "slicer_non_geometry_notices": [
+    {
+      "msg": "not_support_traditional_timelapse",
+      "level": "2",
+      "error_code": "10018003"
+    },
+    {
+      "msg": "not_support_traditional_timelapse",
+      "level": "3",
+      "error_code": "1000C003"
+    }
+  ],
+  "stl_sha256": {
+    "01_Vehicle_Assembly_Plant.stl": "6f52e4e04c31eb6219a8bc27526d76333e6cd50e3e4c0b24d2fc5fe0f80a1807",
+    "02_Battery_Cell_Factory.stl": "91cb025af59c38ff438001d29cbce10b75575df43d663a5a307a6d5f3c3e2433",
+    "03_Battery_Materials_Refinery.stl": "cf5ac8c644d1d85947667e4a911403ee08ffc96ed86693e9e7398b75fd19f9cc",
+    "04_Steel_and_Aluminum_Foundry.stl": "dd0589524777dc0cd35fc73d324f4173d9f5a33488c9c3958f4e27a2cb4673ea",
+    "05_Precision_Components_Factory.stl": "bcf63df0b4e500eb1dd949e60c42941a01fa563c32a37584819bcfcb91df8588",
+    "06_Industrial_Robot_Factory.stl": "3e95b008fa0e475722436dffcefdb5c0412dfbd42cf207fa0faf322cfb35c6b8",
+    "07_Automotive_Design_Center.stl": "5f12592abff0ffd88e3ff36976c509a707ab5e9a85feb4ebac1c7155dfc4046a",
+    "08_Vehicle_Testing_and_Certification_Center.stl": "a1fc67af22a6565c92a9abee359c579230c7755a4cf93daf012674c952f0f9fd",
+    "09_Hydrogen_and_Fuel_Cell_Factory.stl": "a0c7d13f5c4083e9134bdd605473e4b8856bc60d09608d0e0e1cc7b331356996",
+    "10_Battery_Recycling_Plant.stl": "da1fe56819d2b5319d432d8fe478f477ee7646c375d42d643c22c34d52788e90",
+    "11_Industrial_Logistics_Center.stl": "ca9ff6a6a385b7266360afb8a5355a36af708dd82035f68a3f7ab42b5e7fc22c",
+    "12_Technical_Training_Center.stl": "85875802292c250e38769ff620c36ae3460d51a42f071690526e630eeb2a2cff"
+  }
+}

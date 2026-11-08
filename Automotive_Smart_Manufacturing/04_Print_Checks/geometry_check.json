@@ -1,0 +1,338 @@
+[
+  {
+    "file": "01_Vehicle_Assembly_Plant.stl",
+    "triangles": 534,
+    "dimensions_mm": [
+      20.0,
+      36.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      36.0,
+      15.0
+    ],
+    "volume_mm3": 9019.085,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 114,
+    "front_triangles": 145,
+    "valid": true
+  },
+  {
+    "file": "02_Battery_Cell_Factory.stl",
+    "triangles": 956,
+    "dimensions_mm": [
+      19.0,
+      38.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      38.0,
+      15.0
+    ],
+    "volume_mm3": 8775.237,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 218,
+    "front_triangles": 248,
+    "valid": true
+  },
+  {
+    "file": "03_Battery_Materials_Refinery.stl",
+    "triangles": 1352,
+    "dimensions_mm": [
+      19.0,
+      42.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      42.0,
+      15.0
+    ],
+    "volume_mm3": 9549.36,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 166,
+    "front_triangles": 357,
+    "valid": true
+  },
+  {
+    "file": "04_Steel_and_Aluminum_Foundry.stl",
+    "triangles": 384,
+    "dimensions_mm": [
+      20.0,
+      40.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      40.0,
+      15.0
+    ],
+    "volume_mm3": 9123.841,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 75,
+    "front_triangles": 105,
+    "valid": true
+  },
+  {
+    "file": "05_Precision_Components_Factory.stl",
+    "triangles": 976,
+    "dimensions_mm": [
+      19.0,
+      30.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      30.0,
+      15.0
+    ],
+    "volume_mm3": 7291.164,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 220,
+    "front_triangles": 251,
+    "valid": true
+  },
+  {
+    "file": "06_Industrial_Robot_Factory.stl",
+    "triangles": 1112,
+    "dimensions_mm": [
+      19.0,
+      34.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      34.0,
+      15.0
+    ],
+    "volume_mm3": 8462.287,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 265,
+    "front_triangles": 283,
+    "valid": true
+  },
+  {
+    "file": "07_Automotive_Design_Center.stl",
+    "triangles": 544,
+    "dimensions_mm": [
+      20.0,
+      32.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      32.0,
+      15.0
+    ],
+    "volume_mm3": 8295.547,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 125,
+    "front_triangles": 143,
+    "valid": true
+  },
+  {
+    "file": "08_Vehicle_Testing_and_Certification_Center.stl",
+    "triangles": 668,
+    "dimensions_mm": [
+      19.0,
+      28.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      28.0,
+      15.0
+    ],
+    "volume_mm3": 6846.809,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 142,
+    "front_triangles": 184,
+    "valid": true
+  },
+  {
+    "file": "09_Hydrogen_and_Fuel_Cell_Factory.stl",
+    "triangles": 1988,
+    "dimensions_mm": [
+      19.0,
+      40.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      40.0,
+      15.0
+    ],
+    "volume_mm3": 9487.402,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 382,
+    "front_triangles": 510,
+    "valid": true
+  },
+  {
+    "file": "10_Battery_Recycling_Plant.stl",
+    "triangles": 788,
+    "dimensions_mm": [
+      19.0,
+      34.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      34.0,
+      15.0
+    ],
+    "volume_mm3": 8402.76,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 172,
+    "front_triangles": 210,
+    "valid": true
+  },
+  {
+    "file": "11_Industrial_Logistics_Center.stl",
+    "triangles": 928,
+    "dimensions_mm": [
+      20.0,
+      30.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      30.0,
+      15.0
+    ],
+    "volume_mm3": 7981.65,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 224,
+    "front_triangles": 235,
+    "valid": true
+  },
+  {
+    "file": "12_Technical_Training_Center.stl",
+    "triangles": 584,
+    "dimensions_mm": [
+      19.0,
+      35.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      35.0,
+      15.0
+    ],
+    "volume_mm3": 8183.4,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 126,
+    "front_triangles": 159,
+    "valid": true
+  }
+]

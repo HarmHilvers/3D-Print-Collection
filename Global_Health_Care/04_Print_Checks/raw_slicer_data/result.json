@@ -1,0 +1,236 @@
+{
+    "error_string": "Success.",
+    "layer_height": 0.1599999964237213,
+    "peak_rss_mb": 267.109375,
+    "plate_index": 0,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 264.313720703125,
+                "Bridge": 296.7709655761719,
+                "Custom": 369.2879333496094,
+                "Flush": 25.0,
+                "Gap infill": 152.95077514648438,
+                "Inner wall": 2065.44482421875,
+                "Internal solid infill": 1360.9697265625,
+                "Outer wall": 1245.6614990234375,
+                "Sparse infill": 2250.1064453125,
+                "Top surface": 352.462890625,
+                "Travel": 1167.75537109375,
+                "Undefined": 1150.561279296875
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 58.4730224609375,
+                    "total_used_g": 58.4730224609375
+                }
+            ],
+            "id": 1,
+            "layer_filament_change": 0,
+            "main_predication": 9133.1416015625,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 40.00000762939453,
+                        "height": 15.0,
+                        "width": 20.0000057220459,
+                        "x": 172.4999237060547,
+                        "y": 162.9999237060547,
+                        "z": 0.0
+                    },
+                    "id": 222,
+                    "name": "01_General_Hospital.stl",
+                    "triangle_count": 204
+                },
+                {
+                    "bbox": {
+                        "depth": 38.00000762939453,
+                        "height": 15.0,
+                        "width": 20.0000057220459,
+                        "x": 150.4999542236328,
+                        "y": 164.9999237060547,
+                        "z": 0.0
+                    },
+                    "id": 310,
+                    "name": "09_Infectious_Disease_Control_Center.stl",
+                    "triangle_count": 2040
+                },
+                {
+                    "bbox": {
+                        "depth": 20.000001907348633,
+                        "height": 15.0,
+                        "width": 36.00000762939453,
+                        "x": 156.4999237060547,
+                        "y": 140.99993896484375,
+                        "z": 0.0
+                    },
+                    "id": 244,
+                    "name": "03_Biomedical_Research_Center.stl",
+                    "triangle_count": 1276
+                },
+                {
+                    "bbox": {
+                        "depth": 35.00000762939453,
+                        "height": 15.0,
+                        "width": 20.0000057220459,
+                        "x": 128.49998474121094,
+                        "y": 167.9999237060547,
+                        "z": 0.0
+                    },
+                    "id": 255,
+                    "name": "04_Active_Pharmaceutical_Ingredient_Plant.stl",
+                    "triangle_count": 1940
+                },
+                {
+                    "bbox": {
+                        "depth": 20.0,
+                        "height": 15.0,
+                        "width": 35.00000762939453,
+                        "x": 157.4999237060547,
+                        "y": 118.99996948242188,
+                        "z": 0.0
+                    },
+                    "id": 343,
+                    "name": "12_Healthcare_Training_Institute.stl",
+                    "triangle_count": 208
+                },
+                {
+                    "bbox": {
+                        "depth": 33.00000762939453,
+                        "height": 15.0,
+                        "width": 19.999996185302734,
+                        "x": 106.5000228881836,
+                        "y": 169.9999237060547,
+                        "z": 0.0
+                    },
+                    "id": 266,
+                    "name": "05_Vaccine_Factory.stl",
+                    "triangle_count": 888
+                },
+                {
+                    "bbox": {
+                        "depth": 20.0,
+                        "height": 15.0,
+                        "width": 32.00000762939453,
+                        "x": 160.4999237060547,
+                        "y": 97.0,
+                        "z": 0.0
+                    },
+                    "id": 277,
+                    "name": "06_Medical_Device_Factory.stl",
+                    "triangle_count": 500
+                },
+                {
+                    "bbox": {
+                        "depth": 30.0000057220459,
+                        "height": 15.0,
+                        "width": 19.999996185302734,
+                        "x": 84.50005340576172,
+                        "y": 172.9999237060547,
+                        "z": 0.0
+                    },
+                    "id": 321,
+                    "name": "10_Residential_Care_Home.stl",
+                    "triangle_count": 984
+                },
+                {
+                    "bbox": {
+                        "depth": 20.0,
+                        "height": 15.0,
+                        "width": 29.0000057220459,
+                        "x": 163.4999237060547,
+                        "y": 75.00003051757813,
+                        "z": 0.0
+                    },
+                    "id": 299,
+                    "name": "08_Cold_Chain_Medical_Distribution_Center.stl",
+                    "triangle_count": 928
+                },
+                {
+                    "bbox": {
+                        "depth": 31.0000057220459,
+                        "height": 15.0,
+                        "width": 19.0,
+                        "x": 63.50008010864258,
+                        "y": 171.9999237060547,
+                        "z": 0.0
+                    },
+                    "id": 288,
+                    "name": "07_Diagnostic_Laboratory.stl",
+                    "triangle_count": 1570
+                },
+                {
+                    "bbox": {
+                        "depth": 19.999998092651367,
+                        "height": 15.0,
+                        "width": 29.000003814697266,
+                        "x": 163.39773559570313,
+                        "y": 53.00006103515625,
+                        "z": 0.0
+                    },
+                    "id": 332,
+                    "name": "11_Rehabilitation_Center.stl",
+                    "triangle_count": 1734
+                },
+                {
+                    "bbox": {
+                        "depth": 33.94112777709961,
+                        "height": 15.0,
+                        "width": 33.941123962402344,
+                        "x": 126.48126983642578,
+                        "y": 113.4906234741211,
+                        "z": 0.0
+                    },
+                    "id": 233,
+                    "name": "02_Primary_Healthcare_Center.stl",
+                    "triangle_count": 160
+                }
+            ],
+            "times": {
+                "conflict_check_time": 39,
+                "detect_overhangs_time": 6,
+                "export_gcode_time": 646,
+                "flush_plan_time": 0,
+                "generate_support_material_time": 27,
+                "infill_generate_time": 99,
+                "infill_time": 349,
+                "ironing_time": 0,
+                "make_perimeters_time": 199,
+                "multifilament_segment_2d_time": 0,
+                "other_slice_time": 1,
+                "prepare_infill_time": 250,
+                "region_split_time": 0,
+                "skirt_brim_time": 1,
+                "slice_layers_time": 34,
+                "sliced_time": 1312,
+                "sliced_time_with_cache": 647,
+                "support_detect_time": 0,
+                "support_interface_time": 0,
+                "support_normal_generate_time": 0,
+                "support_toolpath_time": 0,
+                "support_tree_generate_time": 0,
+                "toolpath_time": 40,
+                "wall_time": 165,
+                "wipe_tower_time": 3
+            },
+            "total_predication": 9535.2353515625,
+            "triangle_count": 12432,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 15.0,
+    "times": {
+        "export_3mf_time": 242,
+        "export_slicedata_time": 0,
+        "export_time": 467,
+        "import_time": 14,
+        "load_slicedata_time": 0,
+        "prepare_time": 43
+    },
+    "wall_loops": 3
+}

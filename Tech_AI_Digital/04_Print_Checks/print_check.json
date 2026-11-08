@@ -1,0 +1,47 @@
+{
+  "sector": "Tech, AI & digital",
+  "printer": "Bambu Lab A1",
+  "nozzle_mm": 0.4,
+  "material": "Generic PLA",
+  "layer_height_mm": 0.16,
+  "first_layer_mm": 0.2,
+  "supports_enabled": false,
+  "supports_generated": false,
+  "objects_sliced": 12,
+  "objects_with_final_layer_extrusion": 12,
+  "all_objects_on_bed": true,
+  "all_objects_inside_plate": true,
+  "slicer_return_code": 0,
+  "estimated_seconds": 9334,
+  "estimated_pla_g": 55.65,
+  "internal_infill_bridge_layer_heights_mm": [
+    12.52,
+    13.96
+  ],
+  "slicer_non_geometry_notices": [
+    {
+      "msg": "not_support_traditional_timelapse",
+      "level": "2",
+      "error_code": "10018003"
+    },
+    {
+      "msg": "not_support_traditional_timelapse",
+      "level": "3",
+      "error_code": "1000C003"
+    }
+  ],
+  "stl_sha256": {
+    "01_AI_Research_Center.stl": "5a796ca2ea7924af4a5bfddcec0e4a10a1e0dc8570790a5db5c519c19108cb04",
+    "02_Chip_Design_Center.stl": "2775ca2b49973a73e73871b020db059cdd16d621f6b7ca6b224ab4c750324db7",
+    "03_Semiconductor_Fabrication_Plant.stl": "3e7a89dc227178bddd4d68d05d20a31ec667588b4234075edb803b032ce7ed8e",
+    "04_Chip_Packaging_and_Testing_Plant.stl": "aea65af0320c325298ad11a3a984a37e419c83031acbc2fc84a7f2058fa2e865",
+    "05_Data_Center.stl": "8729adedd55eb5059e590b1342100c7916984d22f2e7b49213de892593225a6b",
+    "06_Cybersecurity_Center.stl": "be3a706a4c8296a41e06002cbe7496064f16d30eedb2b1dd39abebe7472309df",
+    "07_Telecommunications_Hub.stl": "daeb0a9b423d9e4534a845ae15df57c1d491ef0d82bf825177b9a29673b462bf",
+    "08_Submarine_Cable_Landing_Station.stl": "d9e1ad4259325fe3a3a1e994c976bdb193ffa9b33e5d13b53b253557111b7eae",
+    "09_Electronics_Factory.stl": "8d5d86b27994b20358febd2fce0106afbe23d765c32132c302c6cc2941da5c9a",
+    "10_Digital_Skills_Academy.stl": "46f5f3b7c19c648cf4d76fd493e589dc371bed5091f3467bb7a014a087b58780",
+    "11_Electronics_Recycling_Center.stl": "3d55d524811cea3fb7791ed1233440261f7766720725a1157ba1924d1bd63a61",
+    "12_Software_and_Platform_Headquarters.stl": "2bc7c9ed5e860c4d652408534142d26aae0946c0144f9dfa4c3e9156e8d3cdc2"
+  }
+}

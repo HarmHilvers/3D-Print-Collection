@@ -1,0 +1,120 @@
+{
+  "sector": "Global Health & Care",
+  "units": "mm",
+  "orientation": {
+    "X": "width",
+    "Y": "height; bottom at Y=0",
+    "Z": "depth; flat back at Z=0"
+  },
+  "recess_depth": 1.5,
+  "models": [
+    {
+      "name": "General Hospital",
+      "filename": "../01_Print_Models/STL/01_General_Hospital.stl",
+      "source": "01_General_Hospital.scad",
+      "width": 20,
+      "height": 40,
+      "depth": 15,
+      "description": "Two tall side wings, a recessed medical cross and an ambulance entrance."
+    },
+    {
+      "name": "Primary Healthcare Center",
+      "filename": "../01_Print_Models/STL/02_Primary_Healthcare_Center.stl",
+      "source": "02_Primary_Healthcare_Center.scad",
+      "width": 20,
+      "height": 28,
+      "depth": 15,
+      "description": "Low gabled facade with three entrances and a large medical cross."
+    },
+    {
+      "name": "Biomedical Research Center",
+      "filename": "../01_Print_Models/STL/03_Biomedical_Research_Center.stl",
+      "source": "03_Biomedical_Research_Center.scad",
+      "width": 20,
+      "height": 36,
+      "depth": 15,
+      "description": "Domed facade with a large microscope and side windows."
+    },
+    {
+      "name": "Active Pharmaceutical Ingredient Plant",
+      "filename": "../01_Print_Models/STL/04_Active_Pharmaceutical_Ingredient_Plant.stl",
+      "source": "04_Active_Pharmaceutical_Ingredient_Plant.scad",
+      "width": 20,
+      "height": 35,
+      "depth": 15,
+      "description": "Three tanks of different heights and a connected molecule symbol."
+    },
+    {
+      "name": "Vaccine Factory",
+      "filename": "../01_Print_Models/STL/05_Vaccine_Factory.stl",
+      "source": "05_Vaccine_Factory.scad",
+      "width": 20,
+      "height": 33,
+      "depth": 15,
+      "description": "Vial-shaped roof structure and a large diagonal syringe."
+    },
+    {
+      "name": "Medical Device Factory",
+      "filename": "../01_Print_Models/STL/06_Medical_Device_Factory.stl",
+      "source": "06_Medical_Device_Factory.scad",
+      "width": 20,
+      "height": 32,
+      "depth": 15,
+      "description": "Stepped roof and a large monitor with a raised heartbeat line."
+    },
+    {
+      "name": "Diagnostic Laboratory",
+      "filename": "../01_Print_Models/STL/07_Diagnostic_Laboratory.stl",
+      "source": "07_Diagnostic_Laboratory.scad",
+      "width": 19,
+      "height": 31,
+      "depth": 15,
+      "description": "Three test-tube-shaped roof profiles of different heights."
+    },
+    {
+      "name": "Cold Chain Medical Distribution Center",
+      "filename": "../01_Print_Models/STL/08_Cold_Chain_Medical_Distribution_Center.stl",
+      "source": "08_Cold_Chain_Medical_Distribution_Center.scad",
+      "width": 20,
+      "height": 29,
+      "depth": 15,
+      "description": "Warehouse with a central roof structure, snowflake and three loading doors."
+    },
+    {
+      "name": "Infectious Disease Control Center",
+      "filename": "../01_Print_Models/STL/09_Infectious_Disease_Control_Center.stl",
+      "source": "09_Infectious_Disease_Control_Center.scad",
+      "width": 20,
+      "height": 38,
+      "depth": 15,
+      "description": "Radar structure and a large virus symbol with eight projections."
+    },
+    {
+      "name": "Residential Care Home",
+      "filename": "../01_Print_Models/STL/10_Residential_Care_Home.stl",
+      "source": "10_Residential_Care_Home.scad",
+      "width": 20,
+      "height": 30,
+      "depth": 15,
+      "description": "Double-gabled facade, a large garden arch and a tree in a recessed entrance."
+    },
+    {
+      "name": "Rehabilitation Center",
+      "filename": "../01_Print_Models/STL/11_Rehabilitation_Center.stl",
+      "source": "11_Rehabilitation_Center.scad",
+      "width": 20,
+      "height": 29,
+      "depth": 15,
+      "description": "Sloping roof, ramp and a large wheelchair symbol."
+    },
+    {
+      "name": "Healthcare Training Institute",
+      "filename": "../01_Print_Models/STL/12_Healthcare_Training_Institute.stl",
+      "source": "12_Healthcare_Training_Institute.scad",
+      "width": 20,
+      "height": 35,
+      "depth": 15,
+      "description": "School with a peaked roof, open book, medical cross and classroom windows."
+    }
+  ]
+}

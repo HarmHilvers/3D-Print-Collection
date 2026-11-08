@@ -1,0 +1,236 @@
+{
+    "error_string": "Success.",
+    "layer_height": 0.1599999964237213,
+    "peak_rss_mb": 264.671875,
+    "plate_index": 0,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 248.85479736328125,
+                "Bridge": 259.2192687988281,
+                "Custom": 368.98309326171875,
+                "Flush": 25.0,
+                "Gap infill": 223.63108825683594,
+                "Inner wall": 2082.29736328125,
+                "Internal solid infill": 1125.302001953125,
+                "Outer wall": 1381.4964599609375,
+                "Sparse infill": 2120.257080078125,
+                "Top surface": 318.3055419921875,
+                "Travel": 1197.126708984375,
+                "Undefined": 1180.286376953125
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 55.65178680419922,
+                    "total_used_g": 55.65178680419922
+                }
+            ],
+            "id": 1,
+            "layer_filament_change": 0,
+            "main_predication": 8932.7900390625,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 40.999996185302734,
+                        "height": 15.0,
+                        "width": 18.999996185302734,
+                        "x": 181.9999237060547,
+                        "y": 150.4999542236328,
+                        "z": 0.0
+                    },
+                    "id": 288,
+                    "name": "07_Telecommunications_Hub.stl",
+                    "triangle_count": 924
+                },
+                {
+                    "bbox": {
+                        "depth": 39.999996185302734,
+                        "height": 15.0,
+                        "width": 18.999996185302734,
+                        "x": 160.9999542236328,
+                        "y": 151.4999542236328,
+                        "z": 0.0
+                    },
+                    "id": 343,
+                    "name": "12_Software_and_Platform_Headquarters.stl",
+                    "triangle_count": 1900
+                },
+                {
+                    "bbox": {
+                        "depth": 32.999996185302734,
+                        "height": 15.0,
+                        "width": 18.999996185302734,
+                        "x": 139.99998474121094,
+                        "y": 158.4999542236328,
+                        "z": 0.0
+                    },
+                    "id": 266,
+                    "name": "05_Data_Center.stl",
+                    "triangle_count": 296
+                },
+                {
+                    "bbox": {
+                        "depth": 19.0000057220459,
+                        "height": 15.0,
+                        "width": 34.999996185302734,
+                        "x": 165.9999237060547,
+                        "y": 129.4999542236328,
+                        "z": 0.0
+                    },
+                    "id": 222,
+                    "name": "01_AI_Research_Center.stl",
+                    "triangle_count": 1000
+                },
+                {
+                    "bbox": {
+                        "depth": 33.999996185302734,
+                        "height": 15.0,
+                        "width": 19.000001907348633,
+                        "x": 119.00000762939453,
+                        "y": 157.4999542236328,
+                        "z": 0.0
+                    },
+                    "id": 321,
+                    "name": "10_Digital_Skills_Academy.stl",
+                    "triangle_count": 316
+                },
+                {
+                    "bbox": {
+                        "depth": 18.999998092651367,
+                        "height": 15.0,
+                        "width": 31.999996185302734,
+                        "x": 168.9999237060547,
+                        "y": 108.49999237060547,
+                        "z": 0.0
+                    },
+                    "id": 233,
+                    "name": "02_Chip_Design_Center.stl",
+                    "triangle_count": 380
+                },
+                {
+                    "bbox": {
+                        "depth": 33.999996185302734,
+                        "height": 15.0,
+                        "width": 19.000001907348633,
+                        "x": 98.00003814697266,
+                        "y": 157.4999542236328,
+                        "z": 0.0
+                    },
+                    "id": 277,
+                    "name": "06_Cybersecurity_Center.stl",
+                    "triangle_count": 436
+                },
+                {
+                    "bbox": {
+                        "depth": 19.999996185302734,
+                        "height": 15.0,
+                        "width": 29.999996185302734,
+                        "x": 170.9999237060547,
+                        "y": 86.5000228881836,
+                        "z": 0.0
+                    },
+                    "id": 310,
+                    "name": "09_Electronics_Factory.stl",
+                    "triangle_count": 572
+                },
+                {
+                    "bbox": {
+                        "depth": 28.999996185302734,
+                        "height": 15.0,
+                        "width": 20.000001907348633,
+                        "x": 76.00006866455078,
+                        "y": 162.4999542236328,
+                        "z": 0.0
+                    },
+                    "id": 244,
+                    "name": "03_Semiconductor_Fabrication_Plant.stl",
+                    "triangle_count": 204
+                },
+                {
+                    "bbox": {
+                        "depth": 19.999996185302734,
+                        "height": 15.0,
+                        "width": 28.00000762939453,
+                        "x": 172.99989318847656,
+                        "y": 64.50005340576172,
+                        "z": 0.0
+                    },
+                    "id": 332,
+                    "name": "11_Electronics_Recycling_Center.stl",
+                    "triangle_count": 904
+                },
+                {
+                    "bbox": {
+                        "depth": 27.0000057220459,
+                        "height": 15.0,
+                        "width": 19.0,
+                        "x": 55.000099182128906,
+                        "y": 164.4999237060547,
+                        "z": 0.0
+                    },
+                    "id": 255,
+                    "name": "04_Chip_Packaging_and_Testing_Plant.stl",
+                    "triangle_count": 1892
+                },
+                {
+                    "bbox": {
+                        "depth": 31.819801330566406,
+                        "height": 15.0,
+                        "width": 31.819805145263672,
+                        "x": 110.69585418701172,
+                        "y": 126.46867370605469,
+                        "z": 0.0
+                    },
+                    "id": 299,
+                    "name": "08_Submarine_Cable_Landing_Station.stl",
+                    "triangle_count": 2812
+                }
+            ],
+            "times": {
+                "conflict_check_time": 35,
+                "detect_overhangs_time": 4,
+                "export_gcode_time": 621,
+                "flush_plan_time": 0,
+                "generate_support_material_time": 22,
+                "infill_generate_time": 83,
+                "infill_time": 251,
+                "ironing_time": 0,
+                "make_perimeters_time": 175,
+                "multifilament_segment_2d_time": 0,
+                "other_slice_time": 1,
+                "prepare_infill_time": 168,
+                "region_split_time": 0,
+                "skirt_brim_time": 0,
+                "slice_layers_time": 31,
+                "sliced_time": 1149,
+                "sliced_time_with_cache": 621,
+                "support_detect_time": 0,
+                "support_interface_time": 0,
+                "support_normal_generate_time": 0,
+                "support_toolpath_time": 0,
+                "support_tree_generate_time": 0,
+                "toolpath_time": 36,
+                "wall_time": 144,
+                "wipe_tower_time": 3
+            },
+            "total_predication": 9334.9326171875,
+            "triangle_count": 11636,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 15.0,
+    "times": {
+        "export_3mf_time": 225,
+        "export_slicedata_time": 0,
+        "export_time": 467,
+        "import_time": 7,
+        "load_slicedata_time": 0,
+        "prepare_time": 49
+    },
+    "wall_loops": 3
+}

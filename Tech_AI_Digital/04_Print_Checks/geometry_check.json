@@ -1,0 +1,338 @@
+[
+  {
+    "file": "01_AI_Research_Center.stl",
+    "triangles": 1000,
+    "dimensions_mm": [
+      19.0,
+      35.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      35.0,
+      15.0
+    ],
+    "volume_mm3": 8703.805,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 188,
+    "front_triangles": 257,
+    "valid": true
+  },
+  {
+    "file": "02_Chip_Design_Center.stl",
+    "triangles": 380,
+    "dimensions_mm": [
+      19.0,
+      32.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      32.0,
+      15.0
+    ],
+    "volume_mm3": 7796.04,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 46,
+    "front_triangles": 132,
+    "valid": true
+  },
+  {
+    "file": "03_Semiconductor_Fabrication_Plant.stl",
+    "triangles": 204,
+    "dimensions_mm": [
+      20.0,
+      29.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      29.0,
+      15.0
+    ],
+    "volume_mm3": 7034.79,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 20,
+    "front_triangles": 70,
+    "valid": true
+  },
+  {
+    "file": "04_Chip_Packaging_and_Testing_Plant.stl",
+    "triangles": 1892,
+    "dimensions_mm": [
+      19.0,
+      27.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      27.0,
+      15.0
+    ],
+    "volume_mm3": 7286.588,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 322,
+    "front_triangles": 485,
+    "valid": true
+  },
+  {
+    "file": "05_Data_Center.stl",
+    "triangles": 296,
+    "dimensions_mm": [
+      19.0,
+      33.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      33.0,
+      15.0
+    ],
+    "volume_mm3": 8569.028,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 33,
+    "front_triangles": 103,
+    "valid": true
+  },
+  {
+    "file": "06_Cybersecurity_Center.stl",
+    "triangles": 436,
+    "dimensions_mm": [
+      19.0,
+      34.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      34.0,
+      15.0
+    ],
+    "volume_mm3": 7697.392,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 91,
+    "front_triangles": 118,
+    "valid": true
+  },
+  {
+    "file": "07_Telecommunications_Hub.stl",
+    "triangles": 924,
+    "dimensions_mm": [
+      19.0,
+      41.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      41.0,
+      15.0
+    ],
+    "volume_mm3": 8781.647,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 202,
+    "front_triangles": 244,
+    "valid": true
+  },
+  {
+    "file": "08_Submarine_Cable_Landing_Station.stl",
+    "triangles": 2812,
+    "dimensions_mm": [
+      19.0,
+      26.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      26.0,
+      15.0
+    ],
+    "volume_mm3": 6665.215,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 694,
+    "front_triangles": 707,
+    "valid": true
+  },
+  {
+    "file": "09_Electronics_Factory.stl",
+    "triangles": 572,
+    "dimensions_mm": [
+      20.0,
+      30.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      30.0,
+      15.0
+    ],
+    "volume_mm3": 7528.638,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 118,
+    "front_triangles": 160,
+    "valid": true
+  },
+  {
+    "file": "10_Digital_Skills_Academy.stl",
+    "triangles": 316,
+    "dimensions_mm": [
+      19.0,
+      34.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      34.0,
+      15.0
+    ],
+    "volume_mm3": 7965.81,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 32,
+    "front_triangles": 110,
+    "valid": true
+  },
+  {
+    "file": "11_Electronics_Recycling_Center.stl",
+    "triangles": 904,
+    "dimensions_mm": [
+      20.0,
+      28.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      28.0,
+      15.0
+    ],
+    "volume_mm3": 7587.138,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 164,
+    "front_triangles": 237,
+    "valid": true
+  },
+  {
+    "file": "12_Software_and_Platform_Headquarters.stl",
+    "triangles": 1900,
+    "dimensions_mm": [
+      19.0,
+      40.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      40.0,
+      15.0
+    ],
+    "volume_mm3": 8743.679,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 422,
+    "front_triangles": 512,
+    "valid": true
+  }
+]

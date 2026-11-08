@@ -1,0 +1,47 @@
+{
+  "sector": "Global Health & Care",
+  "printer": "Bambu Lab A1",
+  "nozzle_mm": 0.4,
+  "material": "Generic PLA",
+  "layer_height_mm": 0.16,
+  "first_layer_mm": 0.2,
+  "supports_enabled": false,
+  "supports_generated": false,
+  "objects_sliced": 12,
+  "objects_with_final_layer_extrusion": 12,
+  "all_objects_on_bed": true,
+  "all_objects_inside_plate": true,
+  "slicer_return_code": 0,
+  "estimated_seconds": 9535,
+  "estimated_pla_g": 58.47,
+  "internal_infill_bridge_layer_heights_mm": [
+    12.52,
+    13.96
+  ],
+  "slicer_non_geometry_notices": [
+    {
+      "msg": "not_support_traditional_timelapse",
+      "level": "2",
+      "error_code": "10018003"
+    },
+    {
+      "msg": "not_support_traditional_timelapse",
+      "level": "3",
+      "error_code": "1000C003"
+    }
+  ],
+  "stl_sha256": {
+    "01_General_Hospital.stl": "c264db8f2bc9ae3c6101bd603d2d2b66213465eb80923bad8be2d192e2b070a3",
+    "02_Primary_Healthcare_Center.stl": "b9f9a88945815cafd15300cb3611c16ce7b3bcdb79d2ab869f4ef6cd1645cb7c",
+    "03_Biomedical_Research_Center.stl": "bf16dde1d94f949782605e050932c226d06e4b3ade929fb29a93f09087214b3b",
+    "04_Active_Pharmaceutical_Ingredient_Plant.stl": "0ed9614a5d707d360bc638870ca9acdf0898162297e4e8446bdb6f1485d63a07",
+    "05_Vaccine_Factory.stl": "c98381b918b4dd6fa1dffdf1b9f710b87cecd5bbccc26192e1b6dbeee1d93ef8",
+    "06_Medical_Device_Factory.stl": "45765fc81bb312c3e86b119eadea95c53bce488d30b365931586499214254c00",
+    "07_Diagnostic_Laboratory.stl": "ceab52376f9790dfcaafe7955213960e0199821363784df896b0ca505eeb102a",
+    "08_Cold_Chain_Medical_Distribution_Center.stl": "f1d678d5b4c304ef0c0bbbdb156a7ac48e56b575c0eee64abeba53f1f0a975f7",
+    "09_Infectious_Disease_Control_Center.stl": "9d32556123dac062b409d1fc028433817bab395124879cd15674de803f205382",
+    "10_Residential_Care_Home.stl": "615d964686e8ee9eaa7060a9d8cf6b60acb027191d1453c67ef8e38e95413230",
+    "11_Rehabilitation_Center.stl": "051a7b413d8f6ad50c1f8788fdff07ca75352a320d71d49a43d1cd89e7209734",
+    "12_Healthcare_Training_Institute.stl": "1afcf55f8857bcd37a9786811f4abb4629e8eb59ef777e7a2db9eafe76d6e8c9"
+  }
+}

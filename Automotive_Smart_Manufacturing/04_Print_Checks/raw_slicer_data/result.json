@@ -1,0 +1,236 @@
+{
+    "error_string": "Success.",
+    "layer_height": 0.1599999964237213,
+    "peak_rss_mb": 269.15625,
+    "plate_index": 0,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 270.54156494140625,
+                "Bridge": 257.1811218261719,
+                "Custom": 369.20660400390625,
+                "Flush": 25.0,
+                "Gap infill": 177.0649871826172,
+                "Inner wall": 2285.227294921875,
+                "Internal solid infill": 1303.2706298828125,
+                "Outer wall": 1356.55810546875,
+                "Sparse infill": 2257.90576171875,
+                "Top surface": 371.89947509765625,
+                "Travel": 1180.6680908203125,
+                "Undefined": 1163.6798095703125
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 61.67042541503906,
+                    "total_used_g": 61.67042541503906
+                }
+            ],
+            "id": 1,
+            "layer_filament_change": 0,
+            "main_predication": 9436.55078125,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 40.00000762939453,
+                        "height": 15.0,
+                        "width": 19.0000057220459,
+                        "x": 172.4999237060547,
+                        "y": 160.9999237060547,
+                        "z": 0.0
+                    },
+                    "id": 310,
+                    "name": "09_Hydrogen_and_Fuel_Cell_Factory.stl",
+                    "triangle_count": 1988
+                },
+                {
+                    "bbox": {
+                        "depth": 40.00000762939453,
+                        "height": 15.0,
+                        "width": 20.0000057220459,
+                        "x": 150.4999542236328,
+                        "y": 160.9999237060547,
+                        "z": 0.0
+                    },
+                    "id": 255,
+                    "name": "04_Steel_and_Aluminum_Foundry.stl",
+                    "triangle_count": 384
+                },
+                {
+                    "bbox": {
+                        "depth": 19.000001907348633,
+                        "height": 15.0,
+                        "width": 42.0,
+                        "x": 149.49990844726563,
+                        "y": 139.99993896484375,
+                        "z": 0.0
+                    },
+                    "id": 244,
+                    "name": "03_Battery_Materials_Refinery.stl",
+                    "triangle_count": 1352
+                },
+                {
+                    "bbox": {
+                        "depth": 36.00000762939453,
+                        "height": 15.0,
+                        "width": 20.0000057220459,
+                        "x": 128.49998474121094,
+                        "y": 164.9999237060547,
+                        "z": 0.0
+                    },
+                    "id": 222,
+                    "name": "01_Vehicle_Assembly_Plant.stl",
+                    "triangle_count": 534
+                },
+                {
+                    "bbox": {
+                        "depth": 19.0,
+                        "height": 15.0,
+                        "width": 38.00000762939453,
+                        "x": 153.4999237060547,
+                        "y": 118.99996948242188,
+                        "z": 0.0
+                    },
+                    "id": 233,
+                    "name": "02_Battery_Cell_Factory.stl",
+                    "triangle_count": 956
+                },
+                {
+                    "bbox": {
+                        "depth": 34.00000762939453,
+                        "height": 15.0,
+                        "width": 18.999996185302734,
+                        "x": 107.5000228881836,
+                        "y": 166.9999237060547,
+                        "z": 0.0
+                    },
+                    "id": 321,
+                    "name": "10_Battery_Recycling_Plant.stl",
+                    "triangle_count": 788
+                },
+                {
+                    "bbox": {
+                        "depth": 19.0,
+                        "height": 15.0,
+                        "width": 34.00000762939453,
+                        "x": 157.4999237060547,
+                        "y": 98.0,
+                        "z": 0.0
+                    },
+                    "id": 277,
+                    "name": "06_Industrial_Robot_Factory.stl",
+                    "triangle_count": 1112
+                },
+                {
+                    "bbox": {
+                        "depth": 35.00000762939453,
+                        "height": 15.0,
+                        "width": 18.999996185302734,
+                        "x": 86.50005340576172,
+                        "y": 165.9999237060547,
+                        "z": 0.0
+                    },
+                    "id": 343,
+                    "name": "12_Technical_Training_Center.stl",
+                    "triangle_count": 584
+                },
+                {
+                    "bbox": {
+                        "depth": 20.0,
+                        "height": 15.0,
+                        "width": 31.9999942779541,
+                        "x": 159.38540649414063,
+                        "y": 76.00003051757813,
+                        "z": 0.0
+                    },
+                    "id": 288,
+                    "name": "07_Automotive_Design_Center.stl",
+                    "triangle_count": 544
+                },
+                {
+                    "bbox": {
+                        "depth": 30.0000057220459,
+                        "height": 15.0,
+                        "width": 20.000003814697266,
+                        "x": 64.50007629394531,
+                        "y": 170.9999237060547,
+                        "z": 0.0
+                    },
+                    "id": 332,
+                    "name": "11_Industrial_Logistics_Center.stl",
+                    "triangle_count": 928
+                },
+                {
+                    "bbox": {
+                        "depth": 18.999998092651367,
+                        "height": 15.0,
+                        "width": 29.999998092651367,
+                        "x": 161.49130249023438,
+                        "y": 55.00006103515625,
+                        "z": 0.0
+                    },
+                    "id": 266,
+                    "name": "05_Precision_Components_Factory.stl",
+                    "triangle_count": 976
+                },
+                {
+                    "bbox": {
+                        "depth": 33.2340202331543,
+                        "height": 15.0,
+                        "width": 33.2340202331543,
+                        "x": 118.29924011230469,
+                        "y": 115.33921813964844,
+                        "z": 0.0
+                    },
+                    "id": 299,
+                    "name": "08_Vehicle_Testing_and_Certification_Center.stl",
+                    "triangle_count": 668
+                }
+            ],
+            "times": {
+                "conflict_check_time": 37,
+                "detect_overhangs_time": 4,
+                "export_gcode_time": 592,
+                "flush_plan_time": 0,
+                "generate_support_material_time": 22,
+                "infill_generate_time": 95,
+                "infill_time": 280,
+                "ironing_time": 0,
+                "make_perimeters_time": 167,
+                "multifilament_segment_2d_time": 0,
+                "other_slice_time": 2,
+                "prepare_infill_time": 185,
+                "region_split_time": 0,
+                "skirt_brim_time": 0,
+                "slice_layers_time": 29,
+                "sliced_time": 1142,
+                "sliced_time_with_cache": 592,
+                "support_detect_time": 0,
+                "support_interface_time": 0,
+                "support_normal_generate_time": 0,
+                "support_toolpath_time": 0,
+                "support_tree_generate_time": 0,
+                "toolpath_time": 33,
+                "wall_time": 138,
+                "wipe_tower_time": 4
+            },
+            "total_predication": 9838.76953125,
+            "triangle_count": 10814,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 15.0,
+    "times": {
+        "export_3mf_time": 246,
+        "export_slicedata_time": 0,
+        "export_time": 492,
+        "import_time": 8,
+        "load_slicedata_time": 0,
+        "prepare_time": 46
+    },
+    "wall_loops": 3
+}

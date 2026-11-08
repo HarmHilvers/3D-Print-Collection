@@ -1,0 +1,338 @@
+[
+  {
+    "file": "01_General_Hospital.stl",
+    "triangles": 204,
+    "dimensions_mm": [
+      20.0,
+      40.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      40.0,
+      15.0
+    ],
+    "volume_mm3": 11057.7,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 26,
+    "front_triangles": 66,
+    "valid": true
+  },
+  {
+    "file": "02_Primary_Healthcare_Center.stl",
+    "triangles": 160,
+    "dimensions_mm": [
+      20.0,
+      28.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      28.0,
+      15.0
+    ],
+    "volume_mm3": 7176.84,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 22,
+    "front_triangles": 47,
+    "valid": true
+  },
+  {
+    "file": "03_Biomedical_Research_Center.stl",
+    "triangles": 1276,
+    "dimensions_mm": [
+      20.0,
+      36.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      36.0,
+      15.0
+    ],
+    "volume_mm3": 9713.422,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 265,
+    "front_triangles": 334,
+    "valid": true
+  },
+  {
+    "file": "04_Active_Pharmaceutical_Ingredient_Plant.stl",
+    "triangles": 1940,
+    "dimensions_mm": [
+      20.0,
+      35.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      35.0,
+      15.0
+    ],
+    "volume_mm3": 8504.197,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 360,
+    "front_triangles": 497,
+    "valid": true
+  },
+  {
+    "file": "05_Vaccine_Factory.stl",
+    "triangles": 888,
+    "dimensions_mm": [
+      20.0,
+      33.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      33.0,
+      15.0
+    ],
+    "volume_mm3": 8300.693,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 199,
+    "front_triangles": 229,
+    "valid": true
+  },
+  {
+    "file": "06_Medical_Device_Factory.stl",
+    "triangles": 500,
+    "dimensions_mm": [
+      20.0,
+      32.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      32.0,
+      15.0
+    ],
+    "volume_mm3": 8176.72,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 102,
+    "front_triangles": 138,
+    "valid": true
+  },
+  {
+    "file": "07_Diagnostic_Laboratory.stl",
+    "triangles": 1570,
+    "dimensions_mm": [
+      19.0,
+      31.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      19.0,
+      31.0,
+      15.0
+    ],
+    "volume_mm3": 7347.213,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 266,
+    "front_triangles": 408,
+    "valid": true
+  },
+  {
+    "file": "08_Cold_Chain_Medical_Distribution_Center.stl",
+    "triangles": 928,
+    "dimensions_mm": [
+      20.0,
+      29.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      29.0,
+      15.0
+    ],
+    "volume_mm3": 7755.542,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 212,
+    "front_triangles": 238,
+    "valid": true
+  },
+  {
+    "file": "09_Infectious_Disease_Control_Center.stl",
+    "triangles": 2040,
+    "dimensions_mm": [
+      20.0,
+      38.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      38.0,
+      15.0
+    ],
+    "volume_mm3": 8990.075,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 442,
+    "front_triangles": 519,
+    "valid": true
+  },
+  {
+    "file": "10_Residential_Care_Home.stl",
+    "triangles": 984,
+    "dimensions_mm": [
+      20.0,
+      30.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      30.0,
+      15.0
+    ],
+    "volume_mm3": 7915.145,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 228,
+    "front_triangles": 255,
+    "valid": true
+  },
+  {
+    "file": "11_Rehabilitation_Center.stl",
+    "triangles": 1734,
+    "dimensions_mm": [
+      20.0,
+      29.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      29.0,
+      15.0
+    ],
+    "volume_mm3": 7645.626,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 420,
+    "front_triangles": 441,
+    "valid": true
+  },
+  {
+    "file": "12_Healthcare_Training_Institute.stl",
+    "triangles": 208,
+    "dimensions_mm": [
+      20.0,
+      35.0,
+      15.0
+    ],
+    "minimum_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "maximum_mm": [
+      20.0,
+      35.0,
+      15.0
+    ],
+    "volume_mm3": 9050.835,
+    "surface_components": 1,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "unsupported_downward_faces": 0,
+    "recess_floor_triangles": 28,
+    "front_triangles": 69,
+    "valid": true
+  }
+]

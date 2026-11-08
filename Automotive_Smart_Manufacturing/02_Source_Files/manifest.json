@@ -1,0 +1,114 @@
+{
+  "sector": "Automotive & smart manufacturing",
+  "units": "mm",
+  "models": [
+    {
+      "name": "Vehicle Assembly Plant",
+      "filename": "../01_Print_Models/STL/01_Vehicle_Assembly_Plant.stl",
+      "source": "01_Vehicle_Assembly_Plant.scad",
+      "width": 20,
+      "height": 36,
+      "depth": 15,
+      "description": "Three sawtooth roofs, a large car symbol, two loading doors and a row of tall windows."
+    },
+    {
+      "name": "Battery Cell Factory",
+      "filename": "../01_Print_Models/STL/02_Battery_Cell_Factory.stl",
+      "source": "02_Battery_Cell_Factory.scad",
+      "width": 19,
+      "height": 38,
+      "depth": 15,
+      "description": "Hall with a battery-shaped crown, a large battery symbol and three wide production panels."
+    },
+    {
+      "name": "Battery Materials Refinery",
+      "filename": "../01_Print_Models/STL/03_Battery_Materials_Refinery.stl",
+      "source": "03_Battery_Materials_Refinery.scad",
+      "width": 19,
+      "height": 42,
+      "depth": 15,
+      "description": "Three connected silo towers with rounded tank tops, wide bands and a pipeline."
+    },
+    {
+      "name": "Steel and Aluminum Foundry",
+      "filename": "../01_Print_Models/STL/04_Steel_and_Aluminum_Foundry.stl",
+      "source": "04_Steel_and_Aluminum_Foundry.scad",
+      "width": 20,
+      "height": 40,
+      "depth": 15,
+      "description": "Furnace hall with two chimneys, a wide furnace opening and a casting ladle on the facade."
+    },
+    {
+      "name": "Precision Components Factory",
+      "filename": "../01_Print_Models/STL/05_Precision_Components_Factory.stl",
+      "source": "05_Precision_Components_Factory.scad",
+      "width": 19,
+      "height": 30,
+      "depth": 15,
+      "description": "Compact hall with a toothed roof crown, large gear and three machine panels."
+    },
+    {
+      "name": "Industrial Robot Factory",
+      "filename": "../01_Print_Models/STL/06_Industrial_Robot_Factory.stl",
+      "source": "06_Industrial_Robot_Factory.scad",
+      "width": 19,
+      "height": 34,
+      "depth": 15,
+      "description": "Asymmetrical hall with a large robot arm, three joints and a wide gripper."
+    },
+    {
+      "name": "Automotive Design Center",
+      "filename": "../01_Print_Models/STL/07_Automotive_Design_Center.stl",
+      "source": "07_Automotive_Design_Center.scad",
+      "width": 20,
+      "height": 32,
+      "depth": 15,
+      "description": "Office facade with a sloping roof, vehicle outline, wide window and central entrance."
+    },
+    {
+      "name": "Vehicle Testing and Certification Center",
+      "filename": "../01_Print_Models/STL/08_Vehicle_Testing_and_Certification_Center.stl",
+      "source": "08_Vehicle_Testing_and_Certification_Center.scad",
+      "width": 19,
+      "height": 28,
+      "depth": 15,
+      "description": "Low testing hall with a raised gate, large check mark and two checkerboard panels."
+    },
+    {
+      "name": "Hydrogen and Fuel Cell Factory",
+      "filename": "../01_Print_Models/STL/09_Hydrogen_and_Fuel_Cell_Factory.stl",
+      "source": "09_Hydrogen_and_Fuel_Cell_Factory.scad",
+      "width": 19,
+      "height": 40,
+      "depth": 15,
+      "description": "Two rounded tank towers with horizontal bands, a connecting pipe and a large H2 symbol."
+    },
+    {
+      "name": "Battery Recycling Plant",
+      "filename": "../01_Print_Models/STL/10_Battery_Recycling_Plant.stl",
+      "source": "10_Battery_Recycling_Plant.scad",
+      "width": 19,
+      "height": 34,
+      "depth": 15,
+      "description": "Stepped hall with two roof fans, recycling arrows and a battery symbol."
+    },
+    {
+      "name": "Industrial Logistics Center",
+      "filename": "../01_Print_Models/STL/11_Industrial_Logistics_Center.stl",
+      "source": "11_Industrial_Logistics_Center.scad",
+      "width": 20,
+      "height": 30,
+      "depth": 15,
+      "description": "Gabled warehouse with a container relief, three loading doors and railway lines."
+    },
+    {
+      "name": "Technical Training Center",
+      "filename": "../01_Print_Models/STL/12_Technical_Training_Center.stl",
+      "source": "12_Technical_Training_Center.scad",
+      "width": 19,
+      "height": 35,
+      "depth": 15,
+      "description": "Symmetrical school with a roof crown, open book, gear and classroom windows."
+    }
+  ]
+}

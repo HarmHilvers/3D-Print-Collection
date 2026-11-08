@@ -1,0 +1,115 @@
+{
+  "sector": "Tech, AI & digital",
+  "units": "mm",
+  "front_recess": 1.5,
+  "models": [
+    {
+      "name": "AI Research Center",
+      "filename": "../01_Print_Models/STL/01_AI_Research_Center.stl",
+      "source": "01_AI_Research_Center.scad",
+      "width": 19,
+      "height": 35,
+      "depth": 15,
+      "description": "Domed facade with three connected network nodes and horizontal windows."
+    },
+    {
+      "name": "Chip Design Center",
+      "filename": "../01_Print_Models/STL/02_Chip_Design_Center.stl",
+      "source": "02_Chip_Design_Center.scad",
+      "width": 19,
+      "height": 32,
+      "depth": 15,
+      "description": "Stepped office with a large chip symbol and six large windows."
+    },
+    {
+      "name": "Semiconductor Fabrication Plant",
+      "filename": "../01_Print_Models/STL/03_Semiconductor_Fabrication_Plant.stl",
+      "source": "03_Semiconductor_Fabrication_Plant.scad",
+      "width": 20,
+      "height": 29,
+      "depth": 15,
+      "description": "Three sawtooth roofs, a filter tower, two grilles and three loading doors."
+    },
+    {
+      "name": "Chip Packaging and Testing Plant",
+      "filename": "../01_Print_Models/STL/04_Chip_Packaging_and_Testing_Plant.stl",
+      "source": "04_Chip_Packaging_and_Testing_Plant.scad",
+      "width": 19,
+      "height": 27,
+      "depth": 15,
+      "description": "Three rounded testing halls with a circular check mark on the central hall."
+    },
+    {
+      "name": "Data Center",
+      "filename": "../01_Print_Models/STL/05_Data_Center.stl",
+      "source": "05_Data_Center.scad",
+      "width": 19,
+      "height": 33,
+      "depth": 15,
+      "description": "Enclosed server facade with two rooftop coolers and a lightning symbol."
+    },
+    {
+      "name": "Cybersecurity Center",
+      "filename": "../01_Print_Models/STL/06_Cybersecurity_Center.stl",
+      "source": "06_Cybersecurity_Center.scad",
+      "width": 19,
+      "height": 34,
+      "depth": 15,
+      "description": "Shield-shaped crown, keyhole, sturdy entrance and three tall windows."
+    },
+    {
+      "name": "Telecommunications Hub",
+      "filename": "../01_Print_Models/STL/07_Telecommunications_Hub.stl",
+      "source": "07_Telecommunications_Hub.scad",
+      "width": 19,
+      "height": 41,
+      "depth": 15,
+      "description": "Wide communications mast, two signal arcs and three tall windows."
+    },
+    {
+      "name": "Submarine Cable Landing Station",
+      "filename": "../01_Print_Models/STL/08_Submarine_Cable_Landing_Station.stl",
+      "source": "08_Submarine_Cable_Landing_Station.scad",
+      "width": 19,
+      "height": 26,
+      "depth": 15,
+      "description": "Low coastal facade with two cable reels, connecting cable and waves."
+    },
+    {
+      "name": "Electronics Factory",
+      "filename": "../01_Print_Models/STL/09_Electronics_Factory.stl",
+      "source": "09_Electronics_Factory.scad",
+      "width": 20,
+      "height": 30,
+      "depth": 15,
+      "description": "Asymmetrical loading hall and taller right-hand section with a smartphone icon."
+    },
+    {
+      "name": "Digital Skills Academy",
+      "filename": "../01_Print_Models/STL/10_Digital_Skills_Academy.stl",
+      "source": "10_Digital_Skills_Academy.scad",
+      "width": 19,
+      "height": 34,
+      "depth": 15,
+      "description": "School with a stepped central facade, keyboard and two rows of windows."
+    },
+    {
+      "name": "Electronics Recycling Center",
+      "filename": "../01_Print_Models/STL/11_Electronics_Recycling_Center.stl",
+      "source": "11_Electronics_Recycling_Center.scad",
+      "width": 20,
+      "height": 28,
+      "depth": 15,
+      "description": "Arched recycling hall with three arrows and three sorting bins."
+    },
+    {
+      "name": "Software and Platform Headquarters",
+      "filename": "../01_Print_Models/STL/12_Software_and_Platform_Headquarters.stl",
+      "source": "12_Software_and_Platform_Headquarters.scad",
+      "width": 19,
+      "height": 40,
+      "depth": 15,
+      "description": "Tall office tower with low side wings and four app tiles."
+    }
+  ]
+}
