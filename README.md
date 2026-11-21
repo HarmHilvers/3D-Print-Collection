@@ -12,7 +12,7 @@ Each set has its own README with a model list, dimensions, print guidance and li
 
 ## Files and printing
 
-Each sector includes individual STL files, a Bambu Studio 3MF project, editable OpenSCAD sources, pictures and recorded print checks. The models are in millimetres, with a flat back for printing and a straight base for standing on a game board. For individual settings and material estimates, see the README for each set.
+Each sector includes individual STL files, a Bambu Studio 3MF project, editable OpenSCAD sources, pictures and recorded print checks. The models are in millimetres, with a flat back for printing and a straight base for standing on a game board. Each set now includes named Bambu Lab A1 print profiles for 0.4 mm and 0.2 mm nozzles. The 0.2 mm profiles use 0.14 mm layers and contain three plates with four buildings on each plate. The existing photos belong to the 0.4 mm profiles; the new photos belong to the 0.2 mm profiles. Each set's README links to the matching profiles and photos, and records the settings and material estimates.
 
 Photographs were edited with AI in most cases; streetscape images are AI-generated illustrations. The model overview images have also been edited with AI for English labels, and should be treated as illustrations rather than exact technical references. Refer to the STL files and model dimensions for the actual designs.
 
