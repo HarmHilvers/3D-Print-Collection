@@ -1,9 +1,5 @@
 # Coins
 
-| Model | Files |
-|---|---|
-| [Custom Two-Color Text Coin](Custom_Two_Color_Text_Coin/) | Bambu Studio 3MF project and photograph |
+- [Custom Two-Color Text Coin](Custom_Two_Color_Text_Coin/) — 3MF project and photo of a +1 coin.
 
-See the model's README for print settings and license information.
-
-[Back to the collection](../README.md)
+[Back to collection](../README.md)
