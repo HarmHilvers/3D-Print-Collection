@@ -57,3 +57,5 @@ The recorded checks report closed geometry and successful slicing of all 12 mode
 ## License
 
 This project is licensed under the European Union Public Licence, version 1.2 (EUPL-1.2). See [LICENSE](LICENSE) for the full text.
+
+[Browse buildings](../README.md) · [Back to the collection](../../README.md)
